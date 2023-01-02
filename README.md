@@ -12,19 +12,19 @@
 第2章: UNIXコマンド
 ### session3
 第3章: 正規表現
-## session4
+### session4
 第4章: 形態素解析
-## session5
+### session5
 第5章: 係り受け解析
-## session6
+### session6
 第6章: 機械学習
-## session7
+### session7
 第7章: 単語ベクトル
-## session8
+### session8
 第8章: ニューラルネット
-## session9
+### session9
 第9章: RNNとCNN
-## session10
+### session10
 第10章: 機械翻訳
 ## URL
 https://nlp100.github.io/ja/
